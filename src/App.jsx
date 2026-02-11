@@ -26,9 +26,9 @@ function App() {
             <img 
               src={logo} 
               alt="Weather Now Logo" 
-              className="w-12 h-auto" // Standard Tailwind size (48px)
+              className="w-50 h-25" // Standard Tailwind size (48px)
             />
-            <span className="font-display text-2xl font-bold tracking-tight">Weather Now</span>
+           
           </div>
           <UnitSettings />
         </header>
